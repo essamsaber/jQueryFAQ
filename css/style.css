@@ -1,0 +1,52 @@
+div#container {
+    width: 600px;
+    margin: 0 auto;
+}
+
+html {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+    display: block;
+    /* background: green; */
+    padding: 10px;
+    color: #607D8B;
+}
+
+h3 {
+    text-align: center;
+    background: #508c50;
+    padding: 15px;
+    display: block;
+    color: #fff;
+}
+
+img {
+    width: 15px;
+    margin: 0;
+    padding: 0;
+}
+
+ul li {
+    list-style: none;
+    font-size: 22px;
+    height: 30px;
+    /* display: block; */
+}
+
+li.q {
+    display: block;
+    /* padding: 10px; */
+    font-weight: bold;
+    border: 2px solid #fff;
+    /* background: rgba(128, 128, 128, 0.38); */
+}
+
+ul.faq {
+    background: #dedede;
+}
+
+li.a {display: none;}
